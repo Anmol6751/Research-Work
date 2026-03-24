@@ -1,4 +1,4 @@
-# [cite_start]CNNs and their use in Facial Recognition [cite: 1]
+# CNNs and their use in Facial Recognition
 
 > [cite_start]**Note:** This repository contains the official implementation and preprocessing pipeline for the upcoming research paper "CNNs and their use in Facial Recognition"[cite: 1, 31]. 
 
